@@ -5,12 +5,12 @@ A simple home security system built on the TM4C123GH6PM microcontroller. Arm the
 --- 
 
 ## What It Does
-- Press the **Active button (PE2)** to arm the system
-- Press **SW1 (PE1) or SW2 (PE0)** to trigger the alarm while armed
-- An **LED (PE4)** flashes as the alarm indicator
+- Press the **Active button (White)** to arm the system
+- Press **SW1 (Blue) or SW2 (Yellow)** to trigger the alarm while armed
+- An **LED ** flashes as the alarm indicator
 - Releasing all buttons disarms and resets the alarm
 
-**Demo:** https://github.com/user-attachments/assets/513ec290-08db-4f1e-bcaa-48ab5e8fe5c6
+[![Home Security System Demo](https://img.youtube.com/vi/ntCVdTkePh8/0.jpg)](https://youtube.com/shorts/ntCVdTkePh8)
 
 ---
 
