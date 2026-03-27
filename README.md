@@ -10,7 +10,9 @@ A simple home security system built on the TM4C123GH6PM microcontroller. Arm the
 - An **LED ** flashes as the alarm indicator
 - Releasing all buttons disarms and resets the alarm
 
-**Demo:** 
+---
+
+## Demo 
 
 [![Home Security System Demo](https://img.youtube.com/vi/ntCVdTkePh8/0.jpg)](https://youtube.com/shorts/ntCVdTkePh8)
 
